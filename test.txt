@@ -1,3 +1,0 @@
-Add content to second file
-Changes from master branches
-Changes from feature_3
