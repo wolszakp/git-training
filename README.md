@@ -42,6 +42,8 @@ git config --global core.autocrlf true|false|input
   ; input convert crlf to lf when put into repository, but when get do nothing
 git config --global alias.lga "log --graph --oneline --all --decorate"  
   create shortcat for git command next you can use it by pressing "git lga"
+git config --global alias.st "status"
+git config --global alias.br "branch"
 git init  
   create repository in current folder
 git status 
